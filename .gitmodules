@@ -1,0 +1,3 @@
+[submodule "onadata"]
+	path = onadata
+	url = https://github.com/onaio/onadata
